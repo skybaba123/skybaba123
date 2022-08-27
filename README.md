@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skybaba123&label=Profile%20views&color=0e75b6&style=flat" alt="skybaba123" /> </p>
 
-- 🔭 I’m currently working on **Banking web app**
+- 🔭 I’m currently working on **A Banking web app**
 
 - 🌱 I’m currently learning **Nextjs and NodeJs**
 
