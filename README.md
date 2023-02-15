@@ -4,15 +4,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skybaba123&label=Profile%20views&color=0e75b6&style=flat" alt="skybaba123" /> </p>
 
-- 🔭 I’m currently working on **A Banking web app**
+- 🔭 I’m currently working on **A Startup**
 
-- 🌱 I’m currently learning **Nextjs and NodeJs**
+- 🌱 I’m currently learning **Nextjs and Typescript**
 
-- 👯 I’m looking to collaborate on **Frontend related progects**
+- 👯 I’m looking to collaborate on **Any inspiring project**
 
 - 👨‍💻 All of my projects are available at [https://ugomiracle.netlify.app/](https://ugomiracle.netlify.app/)
 
-- 💬 Ask me about **React and Javascript**
+- 💬 Ask me about **Javascript**
 
 - 📫 How to reach me **ugwumiracle123@gmail.com**
 
