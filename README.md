@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **A Startup**
 
-- 🌱 I’m currently learning **Nextjs and Typescript**
+- 🌱 I’m currently learning Typescript**
 
 - 👯 I’m looking to collaborate on **Any inspiring project**
 
