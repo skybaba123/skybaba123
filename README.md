@@ -18,6 +18,8 @@
 
 - ⚡ Fun fact **i think about coding 90% of my time**
 
+[![wakatime](https://wakatime.com/badge/user/2027f910-554f-4060-9c59-a806efdb4895/project/e384e606-cb40-488d-a59c-fb7c463907d7.svg)](https://wakatime.com/badge/user/2027f910-554f-4060-9c59-a806efdb4895/project/e384e606-cb40-488d-a59c-fb7c463907d7)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
