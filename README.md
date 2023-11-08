@@ -4,9 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skybaba123&label=Profile%20views&color=0e75b6&style=flat" alt="skybaba123" /> </p>
 
-- 🔭 I’m currently working on **A Startup**
-
-- 🌱 I’m currently learning Elixir 
+- 🔭 I’m currently working on **A Startup** 
 
 - 👯 I’m looking to collaborate on **Any inspiring project**
 
@@ -16,7 +14,7 @@
 
 - 📫 How to reach me **ugwumiracle123@gmail.com**
 
-- ⚡ Fun fact **i think about coding 90% of my time**
+- ⚡ Fun fact **I think about coding 95% of my time**
 
 [![wakatime](https://wakatime.com/badge/user/2027f910-554f-4060-9c59-a806efdb4895.svg)](https://wakatime.com/@2027f910-554f-4060-9c59-a806efdb4895)
 
