@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ugochukwu Miracle</h1>
-<h3 align="center">A passionate frontend developer from Nigeria</h3>
+<h3 align="center">A passionate software developer from Nigeria</h3>
 <img align="right" alt='coding' max-width="80%" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skybaba123&label=Profile%20views&color=0e75b6&style=flat" alt="skybaba123" /> </p>
