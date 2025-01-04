@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ugochukwu Miracle</h1>
+<h1 align="center">Hi 👋, I'm Arinze Victor</h1>
 <h3 align="center">A passionate software developer from Nigeria</h3>
 <img align="right" alt='coding' max-width="80%" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
@@ -8,11 +8,11 @@
 
 - 👯 I’m looking to collaborate on **Any inspiring project**
 
-- 👨‍💻 All of my projects are available at [https://ugomiracle.netlify.app/](https://ugomiracle.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://arinzevictor.com/](https://arinzevictor.com)
 
-- 💬 Ask me about **Javascript**
+- 💬 Ask me about **Javascript, php**
 
-- 📫 How to reach me **ugwumiracle123@gmail.com**
+- 📫 How to reach me **arinzevictor@gmail.com**
 
 - ⚡ Fun fact **I think about coding 95% of my time**
 
